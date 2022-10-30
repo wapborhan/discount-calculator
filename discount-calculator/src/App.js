@@ -6,7 +6,6 @@ class App extends Component {
     this.state = {
       price: 0,
       discount1: 0,
-
       total: 0,
       finalPrice: 0,
     };
